@@ -1,0 +1,8 @@
+flask
+flask_cors
+langchain
+openai
+pymongo
+python-dotenv
+qdrant_client
+tiktoken
